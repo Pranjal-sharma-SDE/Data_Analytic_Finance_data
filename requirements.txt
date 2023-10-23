@@ -1,4 +1,6 @@
+Flask
 pandas
 pymongo
 yfinance
 APScheduler
+matplotlib
